@@ -1,0 +1,17 @@
+.play {
+    position: relative;
+    display: inline-flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 500;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-size: 1.2em;
+
+    img {
+        margin-right: 10px;
+        max-height: 50px;
+    }
+}
